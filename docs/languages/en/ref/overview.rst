@@ -4,9 +4,9 @@
 Overview
 ********
 
-Zend Framework 2 is an open source framework for developing web applications and services using *PHP* 5.3+. Zend 
-Framework 2 uses 100% `object-oriented`_ code and utilises most of the new features of PHP 5.3, namely 
-`namespaces`_, `late static binding`_, `lambda functions and closures`_.
+Zend Framework 2 es un framework de código abierto para el desarrollo de aplicaciones web y servicios que utilizan *PHP* 5.3+. Zend
+Framework 2 utiliza el 100% `_` código orientado a objetos y utiliza la mayor parte de las nuevas características de PHP 5.3, es decir,
+`_` espacios de nombres, el enlace en tiempo estático `_`, `lambda funciones y cierres
 
 Zend Framework 2 evolved from Zend Framework 1, a successful PHP framework with over 15 million 
 downloads. 
