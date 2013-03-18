@@ -1,10 +1,10 @@
 .. _introduction.installation:
 
 ************
-Installation
+instalacion
 ************
 
-.. See the :ref:`requirements appendix <requirements>` for a detailed list of requirements for Zend Framework.
+.. Consulte la: ref: `requisitos apéndice <requirements>` para obtener una lista detallada de los requisitos para Zend Framework.
 
 - **New to Zend Framework?** 
   `Download the latest stable release.`_ Available in ``.zip`` and ``.tar.gz`` formats.
